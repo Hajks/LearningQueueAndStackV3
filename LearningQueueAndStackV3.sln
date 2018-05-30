@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningQueueAndStackV3", "LearningQueueAndStackV3\LearningQueueAndStackV3.csproj", "{9AFB6AC5-F3EC-48E5-B1CF-D9B58CCE8BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFB6AC5-F3EC-48E5-B1CF-D9B58CCE8BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFB6AC5-F3EC-48E5-B1CF-D9B58CCE8BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFB6AC5-F3EC-48E5-B1CF-D9B58CCE8BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFB6AC5-F3EC-48E5-B1CF-D9B58CCE8BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55530922-5AF3-42F7-91F2-AC3D8B9839CD}
+	EndGlobalSection
+EndGlobal
